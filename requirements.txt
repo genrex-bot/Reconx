@@ -13,9 +13,6 @@ urllib3>=2.0.0
 # Subdomain enumeration
 sublist3r>=1.0
 
-# Email/OSINT harvesting
-theHarvester>=4.4.0
-
 # Shodan API
 shodan>=1.28.0
 
