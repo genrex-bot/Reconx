@@ -2,7 +2,7 @@
 """
 ReconX - Automated Passive + Active Reconnaissance Tool
 Author: Your Name
-GitHub: https://github.com/yourusername/reconx
+GitHub: https://github.com/genrex-bot/reconx
 License: MIT
 """
 

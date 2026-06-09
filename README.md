@@ -41,7 +41,7 @@ ReconX is a modular reconnaissance framework that automates subdomain enumeratio
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/yourusername/reconx.git
+git clone https://github.com/genrex-bot/reconx.git
 cd reconx
 
 # 2. Install Python dependencies
