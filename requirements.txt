@@ -1,0 +1,26 @@
+# ReconX - Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core CLI & output
+rich>=13.0.0
+click>=8.1.0
+
+# DNS & networking
+dnspython>=2.4.0
+requests>=2.31.0
+urllib3>=2.0.0
+
+# Subdomain enumeration
+sublist3r>=1.0
+
+# Email/OSINT harvesting
+theHarvester>=4.4.0
+
+# Shodan API
+shodan>=1.28.0
+
+# Report generation
+reportlab>=4.0.0
+
+# Fingerprinting (suppress SSL warnings)
+urllib3[secure]>=2.0.0
