@@ -48,7 +48,7 @@ cd reconx
 pip install -r requirements.txt
 
 # 3. Install external tools
-pip install sublist3r theHarvester
+pip install sublist3r
 ```
 
 ---
